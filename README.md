@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SylvainDu
-- 👀 I’m interested in front-end dev
+- 👀 I’m interested in dev
 - 🌱 I’m currently learning Angular / Reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
